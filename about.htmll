@@ -20,6 +20,10 @@
             <p>Our mission is to curate the best AI tools, tutorials and strategies, and to show you how to leverage them safely and effectively. Whether you’re looking for coding assistants, study aids or ways to monetise your knowledge, we’ve got you covered.</p>
             <p>Feel free to browse our posts and share them with friends. We don’t collect personal data and you can remain entirely anonymous if you choose.</p>
         </section>
+        <section class="disclosure">
+            <h2>Affiliate Disclosure</h2>
+            <p>This site contains affiliate links. If you purchase through these links, we may earn a small commission at no extra cost to you. Thank you for your support!</p>
+        </section>
     </main>
     <footer>
         <p>&copy; 2025 AI Tools for Students & New Developers. All rights reserved.</p>
