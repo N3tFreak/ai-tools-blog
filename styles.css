@@ -1,0 +1,61 @@
+/* Simple responsive style for the AI Tools blog */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+header {
+    background-color: #1f2937;
+    color: #fff;
+    padding: 1rem;
+}
+header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+}
+nav {
+    margin-top: 0.5rem;
+}
+nav a {
+    color: #f3f4f6;
+    margin-right: 1rem;
+    text-decoration: none;
+    font-size: 0.95rem;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+main {
+    padding: 1rem;
+    max-width: 800px;
+    margin: auto;
+}
+.intro {
+    margin-bottom: 2rem;
+}
+.posts article {
+    background-color: #fff;
+    border: 1px solid #e5e7eb;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+}
+.posts article h2 {
+    margin-top: 0;
+}
+footer {
+    background-color: #1f2937;
+    color: #f3f4f6;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+@media (max-width: 600px) {
+    nav a {
+        display: block;
+        margin: 0.5rem 0;
+    }
+}
